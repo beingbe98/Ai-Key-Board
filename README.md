@@ -30,4 +30,4 @@ A fully functional Android IME keyboard usable in any app. Above the QWERTY keys
 
 ## 👤 Author
 
-**Prakash** — [Prakash Connects](https://prakashconnects.wixsite.com/prakashconnects)
+
